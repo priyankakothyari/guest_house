@@ -1,3 +1,3 @@
 module.exports = {
-    publicPAth: '/guest_house'
+    publicPAth: '/guest_house/'
 }
